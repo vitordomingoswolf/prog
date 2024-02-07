@@ -1,0 +1,16 @@
+body{
+
+    background-color: cadetblue;
+    font-size: 1.25rem;
+}
+
+input, button{
+
+    background-color: goldenrod;
+    color: aquamarine;
+}
+
+button{
+
+    cursor: pointer;
+}
